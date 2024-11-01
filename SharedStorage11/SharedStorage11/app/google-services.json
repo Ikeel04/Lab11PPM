@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647008214735",
+    "project_id": "laboratoriono11",
+    "storage_bucket": "laboratoriono11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647008214735:android:18946c13fc1882ffa2e1ba",
+        "android_client_info": {
+          "package_name": "com.ordonez.sharedstorage11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspJXwpjPEHVbH4_j7aU5Vh_oasmuEl-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
